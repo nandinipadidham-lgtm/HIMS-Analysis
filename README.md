@@ -478,39 +478,137 @@ This can help identify important clinical patterns and ensure that unusual resul
 
 ---
 
-# Project Workflow
+# 🔄 Project Workflow
 
 The complete project workflow was:
 
 ```text
 Raw HIMS Excel Dataset
-          ↓
+        ↓
 Data Understanding
-          ↓
+        ↓
 Data Cleaning
-          ↓
+        ↓
 Exploratory Data Analysis
-          ↓
+        ↓
 SQL Database Creation
-          ↓
+        ↓
 SQL Analysis
-          ↓
+        ↓
 Business Insights
-          ↓
+        ↓
 Tableau Visualization
-          ↓
-Recommendations```
+        ↓
+Recommendations
+```
 
 ---
 
-
-## 🤝 Community Service Project
+# 🤝 Community Service Project
 
 As part of my academic work, I participated in a community service project. This experience helped me develop teamwork, communication, responsibility, and social awareness.
 
 ### 📸 Community Service Activities
 
-[![Community Service Activity 1](https://github.com/nandinipadidham-lgtm/HIMS-Analysis/blob/main/cs1.jpeg)](https://github.com/nandinipadidham-lgtm/HIMS-Analysis/blob/main/cs1.jpeg)
+[![Community Service Activity 1](cs1.jpeg)](https://github.com/nandinipadidham-lgtm/HIMS-Analysis/blob/main/cs1.jpeg)
 
-[![Community Service Activity 2](https://github.com/nandinipadidham-lgtm/HIMS-Analysis/blob/main/cs2.jpeg)](https://github.com/nandinipadidham-lgtm/HIMS-Analysis/blob/main/cs2.jpeg)
+[![Community Service Activity 2](cs2.jpeg)](https://github.com/nandinipadidham-lgtm/HIMS-Analysis/blob/main/cs2.jpeg)
 
+---
+
+# 📚 SURE Trust Data Analytics
+
+Along with my HIMS project, I also worked on Data Analytics projects through SURE Trust.
+
+This experience helped me gain practical knowledge in:
+
+- Data Quality Checking
+- Data Cleaning
+- Exploratory Data Analysis
+- SQL
+- Excel
+- Data Visualization
+- Business Analysis
+
+### 🔗 SURE Trust Project
+
+[**PADIDHAM-NAGA-NANDINI-g2-data-analytics**](https://github.com/sure-trust/PADIDHAM-NAGA-NANDINI-g2-data-analytics)
+
+---
+
+# 🎓 What I Learned
+
+Through these projects, I learned how to work with data from the beginning to the final presentation.
+
+### Technical Skills
+
+- Python
+- Pandas
+- NumPy
+- SQL
+- Excel
+- Tableau
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+
+### Practical Skills
+
+- Understanding business problems
+- Finding data-quality issues
+- Analyzing data
+- Creating dashboards
+- Finding useful insights
+- Presenting recommendations
+- Documenting projects on GitHub
+
+---
+
+# 🚧 Challenges Faced
+
+Some challenges I faced during the HIMS project were:
+
+- Understanding a large multi-table dataset
+- Handling missing values
+- Identifying incorrect data formats
+- Understanding relationships between tables
+- Writing SQL queries using multiple tables
+- Creating useful Tableau dashboards
+- Publishing Tableau workbooks
+- Presenting technical findings in simple language
+
+These challenges helped me improve my analytical and problem-solving skills.
+
+---
+
+# 🎯 Conclusion
+
+This project helped me move from learning individual tools to applying them together on a real-world healthcare dataset.
+
+I used:
+
+**Excel → Python → EDA → SQL → Tableau → Insights → Recommendations**
+
+The project helped me understand hospital data related to patients, admissions, clinical results, billing, inventory, and hospital operations.
+
+My SURE Trust Data Analytics work also helped me improve my understanding of data quality, data cleaning, analysis, and visualization.
+
+Overall, these projects gave me practical experience in the complete Data Analytics workflow.
+
+---
+
+# 👩‍💻 Author
+
+## Naga Nandini Padidham
+
+**B.Tech – Electronics and Communication Engineering (ECE)**  
+**SVCE, Tirupati**
+
+### Aspiring Data Analyst
+
+**Skills:**  
+Python | SQL | Excel | Tableau | Data Analysis | Data Visualization | EDA
+
+---
+
+⭐ **Thank you for visiting my project!**
