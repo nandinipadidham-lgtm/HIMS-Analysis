@@ -501,11 +501,16 @@ Tableau Visualization
           ↓
 Recommendations
 
-## 🤝 Community Service
 
-I participated in a community service activity as part of my academic work. This experience helped me develop teamwork, communication, responsibility, and social awareness.
 
-![Community Service Activity](cs1.jpeg)
 
-![Community Service Activity](cs2.jpeg)
+## 🤝 Community Service Project
+
+As part of my academic work, I participated in a community service project. This experience helped me develop teamwork, communication, responsibility, and social awareness.
+
+### 📸 Community Service Activities
+
+[![Community Service Activity 1](https://github.com/nandinipadidham-lgtm/HIMS-Analysis/blob/main/cs1.jpeg)](https://github.com/nandinipadidham-lgtm/HIMS-Analysis/blob/main/cs1.jpeg)
+
+[![Community Service Activity 2](https://github.com/nandinipadidham-lgtm/HIMS-Analysis/blob/main/cs2.jpeg)](https://github.com/nandinipadidham-lgtm/HIMS-Analysis/blob/main/cs2.jpeg)
 
