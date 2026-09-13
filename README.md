@@ -500,3 +500,12 @@ Business Insights
 Tableau Visualization
           ↓
 Recommendations
+
+## 🤝 Community Service
+
+I participated in a community service activity as part of my academic work. This experience helped me develop teamwork, communication, responsibility, and social awareness.
+
+![Community Service Activity](cs1.jpeg)
+
+![Community Service Activity](cs2.jpeg)
+
