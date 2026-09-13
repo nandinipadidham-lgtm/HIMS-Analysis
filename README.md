@@ -499,7 +499,7 @@ Business Insights
           ↓
 Tableau Visualization
           ↓
-Recommendations
+Recommendations```
 
 ---
 
